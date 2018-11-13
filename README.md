@@ -1,5 +1,9 @@
 # Utilisation de l’application
 
+# Compilation 
+invoquez la commande `ant` a la racine du projet
+
+# Utilisation
 L’application compte 3 scripts:
  - nameService.sh
  - computationNode.sh
